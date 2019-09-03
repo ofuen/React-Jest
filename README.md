@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# React-Jest
+React Testing with Jest
+![image](https://user-images.githubusercontent.com/19554935/64184477-7f8e4a00-ce39-11e9-88c3-838b528d3cd6.png)
+***
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,6 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# React-Jest
-React Testing with Jest
->>>>>>> 67f3b598253a692bca06a944e8cb45192902b923
+
