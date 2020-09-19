@@ -4,13 +4,16 @@
   "private": true,
   "dependencies": {
     "acorn": "^7.4.0",
+    "dot-prop": "^5.3.0",
     "eslint-utils": "^1.4.3",
+    "lodash": "^4.17.20",
     "minimist": "^1.2.5",
     "node-forge": "^0.10.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.1.1",
-    "serialize-javascript": "^3.1.0"
+    "serialize-javascript": "^3.1.0",
+    "yargs-parser": "^20.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
