@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "acorn": "^7.1.1",
-    "eslint-utils": "^1.4.2",
+    "acorn": "^7.4.0",
+    "eslint-utils": "^1.4.3",
     "minimist": "^1.2.5",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-scripts": "3.1.1",
     "serialize-javascript": "^3.1.0"
   },
@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "react-test-renderer": "^16.9.0"
+    "react-test-renderer": "^16.13.1"
   }
 }
